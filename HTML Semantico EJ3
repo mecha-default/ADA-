@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Introduccion a CSS Ejercicio 3</title>
+    <link rel=” href =”Ejercicio1.css”stylesheet” href =”Ejercicio3.css” />
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@100;800&display=swap" rel="stylesheet">
+
+    <link href="https://fonts.googleapis.com/css2?family=Raleway:wght@100&display=swap" rel="stylesheet">
+ 
+</head>
+<body>
+   <h1> Titulo cualquiera</h1> 
+   <p> <a href= ”@adalovelace” > Publicado por @adalovelace hace 3 dias</p> 
+
+    <p>Duis consectetur tortor eu rhoncus consectetur. Phasellus id mi libero. Aenean lobortis finibus commodo</p>
+
+    <p>Duis consectetur tortor eu rhoncus consectetur. Phasellus id mi libero. Aenean lobortis finibus commodo</p>
+
+    <p>Duis consectetur tortor eu rhoncus consectetur. Phasellus id mi libero. Aenean lobortis finibus commodo</p>
+
+    <p>Duis consectetur tortor eu rhoncus consectetur. Phasellus id mi libero. Aenean lobortis finibus commodo</p>
+</body>
+</html>
